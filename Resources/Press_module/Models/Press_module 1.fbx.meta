@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 8ba3a66aaafa5b844863c9c35315c4d8
+timeCreated: 1567132243
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 2
+    100006: base_farme
+    100008: bearing
+    100010: bearing 1
+    100012: belt
+    100014: belt 1
+    100016: convery
+    100018: convery 1
+    100020: frame
+    100022: kuangjia_a
+    100024: linear_guide
+    100026: linear_guide 1
+    100028: linear_guide 2
+    100030: linear_guide 3
+    100032: lower_bearing
+    100034: lower_convery
+    100036: lower_roller
+    100038: module_frame
+    100040: polySurface1641
+    100042: polySurface1642
+    100044: polySurface1650
+    100046: polySurface1651
+    100048: polySurface3267
+    100050: polySurface3268
+    100052: polySurface3269
+    100054: polySurface3270
+    100056: polySurface3271
+    100058: polySurface3272
+    100060: polySurface3273
+    100062: press_convery
+    100064: //RootNode
+    100066: roller
+    100068: roller 1
+    100070: thermal_press_module
+    100072: upper_bearing
+    100074: upper_convery
+    100076: upper_roller
+    400000: base
+    400002: base 1
+    400004: base 2
+    400006: base_farme
+    400008: bearing
+    400010: bearing 1
+    400012: belt
+    400014: belt 1
+    400016: convery
+    400018: convery 1
+    400020: frame
+    400022: kuangjia_a
+    400024: linear_guide
+    400026: linear_guide 1
+    400028: linear_guide 2
+    400030: linear_guide 3
+    400032: lower_bearing
+    400034: lower_convery
+    400036: lower_roller
+    400038: module_frame
+    400040: polySurface1641
+    400042: polySurface1642
+    400044: polySurface1650
+    400046: polySurface1651
+    400048: polySurface3267
+    400050: polySurface3268
+    400052: polySurface3269
+    400054: polySurface3270
+    400056: polySurface3271
+    400058: polySurface3272
+    400060: polySurface3273
+    400062: press_convery
+    400064: //RootNode
+    400066: roller
+    400068: roller 1
+    400070: thermal_press_module
+    400072: upper_bearing
+    400074: upper_convery
+    400076: upper_roller
+    2100000: PM_qianlan_MAT
+    2100002: PM_heise_MAT
+    2100004: PM_shenlan_MAT
+    2100006: PM_gaoliang01_MAT
+    2100008: PM_touming_MAT
+    2100010: PM_huangse_MAT
+    2100012: PM_iron01_MAT
+    2100014: PM_iron02_MAT
+    2100016: PM_qianhuang_MAT
+    2300000: kuangjia_a
+    2300002: linear_guide 1
+    2300004: linear_guide 3
+    2300006: lower_bearing
+    2300008: polySurface1641
+    2300010: polySurface1642
+    2300012: polySurface1650
+    2300014: polySurface1651
+    2300016: polySurface3267
+    2300018: polySurface3268
+    2300020: polySurface3269
+    2300022: polySurface3270
+    2300024: polySurface3271
+    2300026: polySurface3272
+    2300028: polySurface3273
+    2300030: upper_bearing
+    3300000: kuangjia_a
+    3300002: linear_guide 1
+    3300004: linear_guide 3
+    3300006: lower_bearing
+    3300008: polySurface1641
+    3300010: polySurface1642
+    3300012: polySurface1650
+    3300014: polySurface1651
+    3300016: polySurface3267
+    3300018: polySurface3268
+    3300020: polySurface3269
+    3300022: polySurface3270
+    3300024: polySurface3271
+    3300026: polySurface3272
+    3300028: polySurface3273
+    3300030: upper_bearing
+    4300000: polySurface3267
+    4300002: linear_guide
+    4300004: polySurface1650
+    4300006: polySurface1641
+    4300008: polySurface3268
+    4300010: polySurface1651
+    4300012: polySurface1642
+    4300014: polySurface3269
+    4300016: polySurface3270
+    4300018: linear_guide
+    4300020: polySurface3271
+    4300022: polySurface3272
+    4300024: upper_bearing
+    4300026: polySurface3273
+    4300028: lower_bearing
+    4300030: kuangjia_a
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_gaoliang01_MAT
+    second: {fileID: 2100000, guid: 2ceab3070a8602948a5672038f4cd030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_heise_MAT
+    second: {fileID: 2100000, guid: e775bbc2200389c4a9dc55a7cf5a4042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_huangse_MAT
+    second: {fileID: 2100000, guid: 8d30697e25fce5d4c8c96d8f6ff32e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_iron01_MAT
+    second: {fileID: 2100000, guid: af5dd54e5f3e72b4396869a4591757dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_iron02_MAT
+    second: {fileID: 2100000, guid: 9cc1cab8fe171884b970c3aaf8a25a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_qianhuang_MAT
+    second: {fileID: 2100000, guid: aeccdcd19efc5244082f4372038d2b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_qianlan_MAT
+    second: {fileID: 2100000, guid: 92476af12c7721f48ae860eba28d0a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_shenlan_MAT
+    second: {fileID: 2100000, guid: a340e2183be89c846809986b0dd162e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PM_touming_MAT
+    second: {fileID: 2100000, guid: f21d6ebd59f91424eaf00e51ecb6a272, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
